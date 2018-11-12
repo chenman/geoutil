@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+	<Document>
+		<name>OvitalMap_20171204_201913</name>
+		<Placemark>
+			<name>Àó³Ç-×ó°¶À¶Íå5ºÅÂ¥14²ã-GP02</name>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://weixin.hui12580.cn:8090/ATPtest/red-pushpin.png</href>
+					</Icon>
+					<OvIcon>1</OvIcon>
+					<OvIconNum>0</OvIconNum>
+					<color>ffffffff</color>
+					<scale>1.0</scale>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>119.046828,25.453012,0 </coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
